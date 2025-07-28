@@ -3,7 +3,7 @@
 <p align="center">
   A simple and responsive Body Mass Index (BMI) calculator built with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.
   <br />
-  <a href="https://techie-being.github.io/bmi-calculator/" target="_blank"><strong>🔗 Live Demo</strong></a>
+  <a href="https://techie-being.github.io/BMI-calculator/" target="_blank"><strong>🔗 Live Demo</strong></a>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ## 📷 Preview
 
 > *(Optional: Add screenshot or recording here)*  
-> ![BMI Calculator Screenshot](screenshot.png)
+> ![BMI Calculator Screenshot](s1.png)
 
 ---
 
